@@ -10,5 +10,5 @@ Setup for AWS EC2 instance
 
 - Clone DQL-Trader and checkout EC2 branch: `git clone https://github.com/Niwood/DQL-Trader.git && cd DQL-Trader && git checkout aws-ec2-supported`
 
-- Run setup: `pip install sh boto3 tqdm && python setup.py`
+- Run setup: `pip install sh boto3 tqdm keras && python setup.py`
 
