@@ -4,7 +4,8 @@ echo "--- This a setup script for DQL Trader for AWS EC2 instance ---"
 
 # 
 
-# Download repo                                                                 
+# Download repo    
+cd ..
 git clone https://github.com/Niwood/DQL-Trader.git
 
 # Pull latest from github                                                       
