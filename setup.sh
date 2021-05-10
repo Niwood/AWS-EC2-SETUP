@@ -17,4 +17,5 @@ git checkout aws-ec2-supported
 #sudo pip3 install --upgrade pip
 
 # Run DQL setup script
+pip install sh boto3 tqdm
 python setup.py
