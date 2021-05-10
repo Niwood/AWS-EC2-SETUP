@@ -1,8 +1,8 @@
 # AWS-EC2-SETUP
 Setup for AWS EC2 instance
 
-# Update                                                                        
+## Update                                                                        
 sudo yum update -y
 
-# Install git                                                                   
+## Install git                                                                   
 sudo yum install git -y
